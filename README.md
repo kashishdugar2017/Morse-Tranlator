@@ -14,4 +14,4 @@ python morse.py
 Then type any text and press Enter.
 
 ## Built by
-Kashish Dugar, age 9
+Kashish Dugar
